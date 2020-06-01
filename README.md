@@ -8,3 +8,6 @@ It's a travel website for traveling around Indonesia.
 
 ### Note
 Hope my code is useful for you. :) Thank you.
+
+#### Want to see it live?
+https://nomade-travel.now.sh/
